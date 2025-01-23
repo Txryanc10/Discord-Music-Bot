@@ -1,0 +1,9 @@
+{
+  "bot_token": "MTMzMTc4ODA4NTAyMDcyNTMxMA.GK_lwh.47AXdQvRHUHrCmJJx5YPpnUcY7IdEQbRKktAt0",
+  "command_prefix": "!",
+  "youtube_api_key": "AIzaSyD_JCqVYnS78Qu5eSp-r1WPr2gNmRzeSxA",
+  "spotify_client_id": "f07d64d0da594684a19548a7da2914b3",
+  "spotify_client_secret": "278492873446440aae10af0a917a4f6b",
+  "soundcloud_client_id": "YOUR_SOUNDCLOUD_CLIENT_ID_HERE",
+  "apple_music_api_key": "YOUR_APPLE_MUSIC_API_KEY_HERE"
+}

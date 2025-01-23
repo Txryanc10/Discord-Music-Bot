@@ -1,0 +1,8 @@
+discord.py
+youtube-dl
+pydub
+ffmpeg-python
+spotipy
+soundcloud-python
+apple-music-python
+aiohttp
